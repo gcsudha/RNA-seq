@@ -1,0 +1,9 @@
+INFO [2019-10-03 08:30:43] [[1]]
+INFO [2019-10-03 08:30:43] list(resSig_Cv653$id, resSig_Cv111$id, resSig_653v111$id)
+INFO [2019-10-03 08:30:43] 
+INFO [2019-10-03 08:30:43] $filename
+INFO [2019-10-03 08:30:43] NULL
+INFO [2019-10-03 08:30:43] 
+INFO [2019-10-03 08:30:43] $category.names
+INFO [2019-10-03 08:30:43] c("653 vs control", "111 vs control", "653 vs 111")
+INFO [2019-10-03 08:30:43] 
