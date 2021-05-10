@@ -1,0 +1,3 @@
+Tags,GO ID,GO Name,GO Category,FDR,P-Value,Nr Test,Nr Reference,Non Annot Test,Non Annot Reference
+[OVER],GO:0006952,defense response,BIOLOGICAL_PROCESS,0.038693134,9.31E-06,11,851,50,23204
+[OVER],GO:0009607,response to biotic stimulus,BIOLOGICAL_PROCESS,0.038693134,7.22E-06,7,276,54,23779
