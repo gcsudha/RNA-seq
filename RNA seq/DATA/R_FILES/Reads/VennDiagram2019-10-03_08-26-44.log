@@ -1,0 +1,7 @@
+INFO [2019-10-03 08:26:44] [[1]]
+INFO [2019-10-03 08:26:44] list(resSig_Cv653$id, resSig_Cv111$id, resSig_653v111$id)
+INFO [2019-10-03 08:26:44] 
+INFO [2019-10-03 08:26:44] $filename
+INFO [2019-10-03 08:26:44] NULL
+INFO [2019-10-03 08:26:44] 
+ERROR [2019-10-03 08:26:44] Unexpected parameter length for 'category'
