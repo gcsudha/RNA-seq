@@ -1,0 +1,299 @@
+,GO,count,term_type
+65,metabolic process,21,P
+127,single-organism process,19,P
+126,single-organism metabolic process,16,P
+35,cellular process,12,P
+86,organic substance metabolic process,11,P
+89,oxidation-reduction process,11,P
+30,cellular metabolic process,11,P
+72,nitrogen compound metabolic process,10,P
+24,cellular aromatic compound metabolic process,10,P
+83,organic cyclic compound metabolic process,10,P
+124,single-organism cellular process,10,P
+97,primary metabolic process,9,P
+53,heterocycle metabolic process,9,P
+12,biosynthetic process,9,P
+34,cellular nitrogen compound metabolic process,9,P
+25,cellular biosynthetic process,8,P
+85,organic substance biosynthetic process,8,P
+62,macromolecule metabolic process,7,P
+77,nucleobase-containing compound metabolic process,7,P
+146,transport,6,P
+60,localization,6,P
+74,nucleic acid metabolic process,6,P
+123,single-organism biosynthetic process,6,P
+29,cellular macromolecule metabolic process,6,P
+46,gene expression,6,P
+43,establishment of localization,6,P
+2,RNA metabolic process,6,P
+33,cellular nitrogen compound biosynthetic process,5,P
+52,heterocycle biosynthetic process,5,P
+130,small molecule metabolic process,5,P
+82,organic cyclic compound biosynthetic process,5,P
+9,aromatic compound biosynthetic process,5,P
+88,organonitrogen compound metabolic process,5,P
+71,ncRNA processing,4,P
+129,small molecule biosynthetic process,4,P
+4,RNA processing,4,P
+87,organonitrogen compound biosynthetic process,4,P
+128,single-organism transport,4,P
+70,ncRNA metabolic process,4,P
+133,tRNA processing,4,P
+131,tRNA metabolic process,4,P
+125,single-organism localization,4,P
+69,monovalent inorganic cation transport,3,P
+90,oxoacid metabolic process,3,P
+76,nucleobase-containing compound biosynthetic process,3,P
+1,RNA biosynthetic process,3,P
+80,organic acid biosynthetic process,3,P
+81,organic acid metabolic process,3,P
+61,macromolecule biosynthetic process,3,P
+104,regulation of biological process,3,P
+55,ion transport,3,P
+95,pigment metabolic process,3,P
+75,nucleic acid-templated transcription,3,P
+144,"transcription, DNA-templated",3,P
+110,regulation of cellular process,3,P
+10,biological regulation,3,P
+14,carboxylic acid biosynthetic process,3,P
+15,carboxylic acid metabolic process,3,P
+18,cation transport,3,P
+28,cellular macromolecule biosynthetic process,3,P
+107,regulation of cellular biosynthetic process,2,P
+119,"regulation of transcription, DNA-templated",2,P
+149,water-soluble vitamin biosynthetic process,2,P
+148,vitamin metabolic process,2,P
+147,vitamin biosynthetic process,2,P
+141,tetraterpenoid metabolic process,2,P
+140,tetraterpenoid biosynthetic process,2,P
+137,terpenoid metabolic process,2,P
+136,terpenoid biosynthetic process,2,P
+118,regulation of primary metabolic process,2,P
+108,regulation of cellular macromolecule biosynthetic process,2,P
+117,regulation of nucleobase-containing compound metabolic process,2,P
+94,pigment biosynthetic process,2,P
+116,regulation of nucleic acid-templated transcription,2,P
+114,regulation of metabolic process,2,P
+96,potassium ion transport,2,P
+113,regulation of macromolecule metabolic process,2,P
+112,regulation of macromolecule biosynthetic process,2,P
+111,regulation of gene expression,2,P
+102,regulation of RNA biosynthetic process,2,P
+103,regulation of RNA metabolic process,2,P
+109,regulation of cellular metabolic process,2,P
+106,regulation of biosynthetic process,2,P
+115,regulation of nitrogen compound metabolic process,2,P
+150,water-soluble vitamin metabolic process,2,P
+39,coenzyme metabolic process,2,P
+17,carotenoid metabolic process,2,P
+32,cellular modified amino acid metabolic process,2,P
+38,coenzyme biosynthetic process,2,P
+31,cellular modified amino acid biosynthetic process,2,P
+40,cofactor biosynthetic process,2,P
+41,cofactor metabolic process,2,P
+27,cellular lipid metabolic process,2,P
+23,cellular amino acid metabolic process,2,P
+22,cellular amino acid biosynthetic process,2,P
+21,cellular amide metabolic process,2,P
+56,isoprenoid biosynthetic process,2,P
+58,lipid biosynthetic process,2,P
+59,lipid metabolic process,2,P
+57,isoprenoid metabolic process,2,P
+66,metal ion transport,2,P
+16,carotenoid biosynthetic process,2,P
+5,alpha-amino acid biosynthetic process,2,P
+6,alpha-amino acid metabolic process,2,P
+7,amide biosynthetic process,2,P
+138,tetrapyrrole biosynthetic process,1,P
+3,RNA modification,1,P
+145,transmembrane transport,1,P
+8,ammonium transport,1,P
+26,cellular homeostasis,1,P
+143,transcription initiation from RNA polymerase II promoter,1,P
+142,transcription from RNA polymerase II promoter,1,P
+139,tetrapyrrole metabolic process,1,P
+132,tRNA modification,1,P
+20,cell redox homeostasis,1,P
+134,tRNA threonylcarbamoyladenosine metabolic process,1,P
+135,tRNA threonylcarbamoyladenosine modification,1,P
+13,carbohydrate derivative metabolic process,1,P
+19,cell cycle,1,P
+37,cobalamin metabolic process,1,P
+36,cobalamin biosynthetic process,1,P
+84,organic hydroxy compound metabolic process,1,P
+122,secondary metabolic process,1,P
+121,response to stress,1,P
+78,nucleobase-containing small molecule metabolic process,1,P
+73,nitrogen compound transport,1,P
+68,monocarboxylic acid metabolic process,1,P
+91,pantothenate biosynthetic process,1,P
+92,pantothenate metabolic process,1,P
+93,phenol-containing compound metabolic process,1,P
+67,monocarboxylic acid biosynthetic process,1,P
+64,melanin metabolic process,1,P
+63,macromolecule modification,1,P
+98,protein metabolic process,1,P
+99,proteolysis,1,P
+100,pteridine-containing compound biosynthetic process,1,P
+101,pteridine-containing compound metabolic process,1,P
+105,regulation of biological quality,1,P
+54,homeostatic process,1,P
+51,glycosyl compound metabolic process,1,P
+50,glutamine metabolic process,1,P
+49,glutamine family amino acid metabolic process,1,P
+48,glutamine family amino acid biosynthetic process,1,P
+47,glutamine biosynthetic process,1,P
+45,folic acid-containing compound metabolic process,1,P
+44,folic acid-containing compound biosynthetic process,1,P
+42,defense response,1,P
+79,nucleoside metabolic process,1,P
+120,response to stimulus,1,P
+0,"DNA-templated transcription, initiation",1,P
+28,catalytic activity,20,F
+24,binding,16,F
+70,oxidoreductase activity,11,F
+50,ion binding,10,F
+42,heterocyclic compound binding,10,F
+69,organic cyclic compound binding,10,F
+68,nucleotide binding,9,F
+66,nucleoside phosphate binding,9,F
+102,small molecule binding,9,F
+23,anion binding,8,F
+32,cofactor binding,7,F
+31,coenzyme binding,7,F
+37,flavin adenine dinucleotide binding,5,F
+44,hydrolase activity,5,F
+112,transporter activity,4,F
+111,transmembrane transporter activity,4,F
+45,"hydrolase activity, acting on acid anhydrides",3,F
+46,"hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances",3,F
+91,purine ribonucleoside binding,3,F
+96,ribonucleotide binding,3,F
+94,pyrophosphatase activity,3,F
+54,lyase activity,3,F
+90,purine nucleotide binding,3,F
+95,ribonucleoside binding,3,F
+47,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",3,F
+89,purine nucleoside binding,3,F
+1,ATPase activity,3,F
+0,ATP binding,3,F
+85,primary active transmembrane transporter activity,3,F
+17,active transmembrane transporter activity,3,F
+2,"ATPase activity, coupled",3,F
+3,"ATPase activity, coupled to movement of substances",3,F
+4,"ATPase activity, coupled to transmembrane movement of substances",3,F
+12,P-P-bond-hydrolysis-driven transmembrane transporter activity,3,F
+67,nucleoside-triphosphatase activity,3,F
+65,nucleoside binding,3,F
+25,carbohydrate derivative binding,3,F
+93,purine ribonucleotide binding,3,F
+18,adenyl nucleotide binding,3,F
+19,adenyl ribonucleotide binding,3,F
+86,protein binding,3,F
+92,purine ribonucleoside triphosphate binding,3,F
+52,ligase activity,2,F
+53,"ligase activity, forming carbon-nitrogen bonds",2,F
+71,"oxidoreductase activity, acting on CH-OH group of donors",2,F
+75,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",2,F
+63,nucleic acid binding,2,F
+58,metal ion binding,2,F
+39,guanyl nucleotide binding,2,F
+40,guanyl ribonucleotide binding,2,F
+5,DNA binding,2,F
+29,cation binding,2,F
+26,carbon-oxygen lyase activity,2,F
+7,GTP binding,2,F
+8,GTPase activity,2,F
+10,NAD binding,2,F
+110,transition metal ion binding,2,F
+107,transferase activity,1,F
+81,pantoate-beta-alanine ligase activity,1,F
+82,pectate lyase activity,1,F
+83,peptidase activity,1,F
+84,"peptidase activity, acting on L-amino acid peptides",1,F
+109,"transferase activity, transferring acyl groups other than amino-acyl groups",1,F
+108,"transferase activity, transferring acyl groups",1,F
+106,"transcription factor activity, sequence-specific DNA binding",1,F
+79,"oxidoreductase activity, acting on the CH-NH group of donors, NAD or NADP as acceptor",1,F
+105,tRNA dihydrouridine synthase activity,1,F
+104,substrate-specific transporter activity,1,F
+87,protein dimerization activity,1,F
+103,substrate-specific transmembrane transporter activity,1,F
+88,protein disulfide oxidoreductase activity,1,F
+101,sirohydrochlorin cobaltochelatase activity,1,F
+100,serine-type peptidase activity,1,F
+99,serine hydrolase activity,1,F
+98,sequence-specific DNA binding,1,F
+97,scytalone dehydratase activity,1,F
+80,"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",1,F
+57,malic enzyme activity,1,F
+78,"oxidoreductase activity, acting on the CH-NH group of donors",1,F
+20,alternative oxidase activity,1,F
+34,disulfide oxidoreductase activity,1,F
+33,copper ion binding,1,F
+30,cation transmembrane transporter activity,1,F
+27,"carbon-oxygen lyase activity, acting on polysaccharides",1,F
+22,ammonium transmembrane transporter activity,1,F
+21,ammonia ligase activity,1,F
+16,acid-ammonia (or amide) ligase activity,1,F
+36,extracellular matrix binding,1,F
+15,acid-amino acid ligase activity,1,F
+14,RNA helicase activity,1,F
+13,RNA binding,1,F
+11,NADP binding,1,F
+9,"N,N-dimethylaniline monooxygenase activity",1,F
+6,FAD binding,1,F
+35,electron carrier activity,1,F
+38,glutamate-ammonia ligase activity,1,F
+77,"oxidoreductase activity, acting on the CH-CH group of donors",1,F
+61,monooxygenase activity,1,F
+76,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen",1,F
+74,"oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor",1,F
+73,"oxidoreductase activity, acting on diphenols and related substances as donors",1,F
+72,"oxidoreductase activity, acting on a sulfur group of donors",1,F
+64,nucleic acid binding transcription factor activity,1,F
+62,monovalent inorganic cation transmembrane transporter activity,1,F
+59,methylenetetrahydrofolate dehydrogenase (NADP+) activity,1,F
+41,helicase activity,1,F
+56,malate dehydrogenase activity,1,F
+55,malate dehydrogenase (decarboxylating) (NAD+) activity,1,F
+51,ion transmembrane transporter activity,1,F
+49,inorganic cation transmembrane transporter activity,1,F
+48,"hydrolase activity, acting on ester bonds",1,F
+43,hydro-lyase activity,1,F
+113,zinc ion binding,1,F
+19,membrane part,5,C
+16,intrinsic component of membrane,5,C
+9,integral component of membrane,5,C
+8,extracellular region,3,C
+11,intracellular membrane-bounded organelle,2,C
+28,nucleus,2,C
+20,membrane-bounded organelle,2,C
+29,organelle,2,C
+15,intracellular part,2,C
+12,intracellular organelle,2,C
+10,intracellular,2,C
+6,cell part,2,C
+5,cell,2,C
+25,nuclear transcription factor complex,1,C
+32,protein complex,1,C
+31,organelle part,1,C
+30,organelle lumen,1,C
+33,transcription factor TFIIA complex,1,C
+34,transcription factor complex,1,C
+35,transferase complex,1,C
+27,nucleoplasm part,1,C
+26,nucleoplasm,1,C
+0,"DNA-directed RNA polymerase II, holoenzyme",1,C
+24,nuclear part,1,C
+23,nuclear lumen,1,C
+22,nuclear DNA-directed RNA polymerase complex,1,C
+21,membrane-enclosed lumen,1,C
+1,DNA-directed RNA polymerase complex,1,C
+17,macromolecular complex,1,C
+14,intracellular organelle part,1,C
+13,intracellular organelle lumen,1,C
+4,catalytic complex,1,C
+3,RNA polymerase complex,1,C
+2,RNA polymerase II transcription factor complex,1,C
+36,"transferase complex, transferring phosphorus-containing groups",1,C
