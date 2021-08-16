@@ -1,0 +1,31 @@
+The Different Expression Gene List
+
+
+The input data is the readcount value from the gene expression level analysis. For samples with biological replicates, DESeq(Anders et al, 2010) is used to do the analysis, For the samples without biological replicates, TMM was first used to normalize the readcount value, and the DEGseq is used to do the analysis. 
+
+
+Result file description:
+
+
+*.DEG_up.xls		The gene list of up-regulated DEGs
+*.DEG.xls		The gene list of DEGs
+*.DEG_down.xls		The gene list of down-regulated DEGs
+
+Main contents of the list: 
+(1) Gene_id: The gene id
+
+(2) readcount_Sample1: the readcount values of sample1 after normalization
+
+(3) readcount_Sample2: the readcount values of sample1 after normalization
+(4) log2FoldChange: log2(Sample1/Sample2)
+
+(5) pvalue(pval): the pvalue
+
+(6) qvalue(padj): pvalue after normalization. The smaller the qvalue is, the more significant the difference is.
+(7) Gene Descriptions
+
+  *.Differential_analysis_results.xls: The differential analysis results of all genes
+(8) significant: whether this gene is a DEG or not.
+
+*.DEG.fasta: The fasta format gene information.
+

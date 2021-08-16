@@ -1,0 +1,3 @@
+Gene_id	readcount_B_653	readcount_M_653	log2FoldChange	pval	padj	Blast swiss prot
+mRNA_10347	107.800047400379	23.0970599602283	2.2226	9.3723e-08	0.00013665	sp|P96654|YDDQ_BACSU Uncharacterized isochorismatase family protein YddQ OS=Bacillus subtilis (strain 168) GN=yddQ PE=3 SV=1//2.60398e-23
+mRNA_1342	24.2094313064578	0	Inf	4.9703e-05	0.048312	-//-

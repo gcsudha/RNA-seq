@@ -1,0 +1,41 @@
+The Different Expression Gene List
+
+The input data was the readcount value from the gene expression level analysis. For the samples with biological replicates, DESeq(Anders et al, 2010) was used to do the analysis, For the samples without biological replicates, TMM was first used to normalize the read count value, and the DEGseq was used to do the analysis. 
+
+Results:
+
+	1.compare.Differential_analysis_results.xls	The differential analysis results of all genes
+	2.compare.DEG.xls		The result of DEGs
+	3.compare.DEGlist.txt	The gene list of DEGs
+	4.compare.DEG_up.xls	The result of up-regulated DEGs
+	5.compare.DEGlist_up.txt	The gene list of up-regulated DEGs
+	4.compare.DEG_down.xls	The result of down-regulated DEGs
+	5.compare.DEGlist_down.txt	The gene list of down-regulated DEGs
+
+===========================================================================
+
+Result file description:
+
+1.compare.Differential_analysis_results.xls
+
+(1)DESeq Result:
+
+	gene_id		The Gene ID
+	group1		The readcount of group 1
+	group2		The readcount of group 2
+	log2FoldChange log2(readcount group 1/readcount group 2)
+	pval		The p value of each gene
+	padj		The pvalue after normalized. The smaller the qvalue is, the more significant the difference is.
+	significant	Whether this gene is a DEG or not.
+(2)DEGseq Result:
+
+	Gene_id			The Gene ID
+	sample1_readcount	The readcount of sample 1
+	sample2_readcount	The readcount of sample 2
+	log2.Fold_change.	log2(readcount sample 1/readcount sample 2)
+	p.value  		p value
+	q.value.Storey.et.al..2003.	The pvalue after normalized. The smaller the qvalue is, the more significant the difference is.	
+	Signature	Whether this gene is a DEG or not.
+
+  2. compare.DEG.xls is the same as the discription of "compare.Differential_analysis_results.xls".Besuase there are all different genes,so it has not significent.
+  3. the format of compare.DEG_up.xls and compare.DEG_down.xls is similar to compare.DEG.xls.

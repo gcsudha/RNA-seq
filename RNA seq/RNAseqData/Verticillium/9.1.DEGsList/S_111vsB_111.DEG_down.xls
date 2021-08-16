@@ -1,0 +1,8 @@
+Gene_id	readcount_S_111	readcount_B_111	log2FoldChange	pval	padj	Blast swiss prot
+mRNA_10347	6.52827414731582	194.194213849018	-4.8947	2.7684e-12	1.2304e-08	sp|P96654|YDDQ_BACSU Uncharacterized isochorismatase family protein YddQ OS=Bacillus subtilis (strain 168) GN=yddQ PE=3 SV=1//2.60398e-23
+mRNA_1341	0.574645879011255	129.37480751878	-7.8147	8.2052e-11	1.8234e-07	-//-
+mRNA_1342	0	44.0498137834524	-Inf	7.9171e-13	7.0375e-09	-//-
+mRNA_3553	0.658147420172419	24.7779611372648	-5.2345	3.625e-05	0.040278	sp|P41820|BFR1_SCHPO Brefeldin A resistance protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=bfr1 PE=1 SV=1//0
+mRNA_785	0.504533136473319	46.1784254475605	-6.5161	2.2654e-11	6.7125e-08	sp|Q8G9F9|INHA_PSEPU Isonitrile hydratase OS=Pseudomonas putida GN=inhA PE=1 SV=1//1.19522e-07
+mRNA_8071	2.39547385582941	30.4499931297465	-3.6681	3.2957e-06	0.0058592	sp|P41820|BFR1_SCHPO Brefeldin A resistance protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=bfr1 PE=1 SV=1//0
+mRNA_9681	1.62352340774304	21.5817439934671	-3.7326	2.2131e-05	0.028103	sp|O95620|DUS4L_HUMAN tRNA-dihydrouridine(20a/20b) synthase [NAD(P)+]-like OS=Homo sapiens GN=DUS4L PE=2 SV=2//5.47302e-32
